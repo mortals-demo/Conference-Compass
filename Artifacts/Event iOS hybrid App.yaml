@@ -8,11 +8,11 @@ features: null
 application: null
 source:
   url: "https://github.com/Mortals-dev/Hybrid-iOS-App"
-  type: null
+  type: "Github"
 description:
   title: null
   details: "Hybrid App for event Tracking"
-  icon: null
+  icon: - "sap-icon://iphone"
   background: null
   moreInfo: null
   other: null
