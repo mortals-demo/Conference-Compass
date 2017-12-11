@@ -12,7 +12,8 @@ source:
 description:
   title: null
   details: "Hybrid App for event Tracking"
-  icon: - "sap-icon://iphone"
+  icon: 
+  - "sap-icon://iphone"
   background: null
   moreInfo: null
   other: null
