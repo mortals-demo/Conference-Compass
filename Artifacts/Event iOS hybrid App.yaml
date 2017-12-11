@@ -1,17 +1,17 @@
 ---
 configuration:
 - key: "launchUrl"
-  value: ""
+  value: "https://github.com/Mortals-dev/Hybrid-iOS-App"
 name: "Event iOS Hybrid App"
 artifactTypeId: "Hybrid App"
 features: null
 application: null
 source:
-  url: ""
+  url: "https://github.com/Mortals-dev/Hybrid-iOS-App"
   type: null
 description:
   title: null
-  details: "Lorem ipsum dolor sit amet, conse tetuer adipiscing elit, nibh."
+  details: "Hybrid App for event Tracking"
   icon: null
   background: null
   moreInfo: null
